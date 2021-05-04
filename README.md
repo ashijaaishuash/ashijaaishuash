@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashija Suresh
 - 👀 I’m interested in software field
 - 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on computer science
+- 💞️ I’m looking to collaborate on our project
 - 📫 How to reach me aluva
 
 <!---
